@@ -1,0 +1,42 @@
+[
+  {
+    "id": "clay_king",
+    "displayName": "Clay King",
+    "texturePath": "characters/nadal.png",
+    "speedBonus": 0.2,
+    "jumpBonus": 0.0,
+    "stabilityBonus": 0.1,
+    "attackCooldown": 0.5,
+    "attackDamage": 1.0
+  },
+  {
+    "id": "grass_maestro",
+    "displayName": "Grass Master",
+    "texturePath": "characters/federer.png",
+    "speedBonus": 0.1,
+    "jumpBonus": 0.1,
+    "stabilityBonus": 0.5,
+    "attackCooldown": 0.8,
+    "attackDamage": 1.2
+  },
+  {
+    "id": "baseline_machine",
+    "displayName": "Baseline Machine",
+    "texturePath": "characters/djokovic.png",
+    "speedBonus": 0.4,
+    "jumpBonus": 0.2,
+    "stabilityBonus": 1.0,
+    "attackCooldown": 0.8,
+    "attackDamage": 0.8
+  },
+  {
+    "id": "agassi",
+    "displayName": "The Rebel",
+    "texturePath": "characters/agassi.png",
+    "speedBonus": 0.15,
+    "jumpBonus": 0.05,
+    "stabilityBonus": 1.0,
+    "attackCooldown": 0.45,
+    "attackDamage": 1.5
+  }
+]
